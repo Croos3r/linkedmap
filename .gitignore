@@ -1,0 +1,11 @@
+*.a
+*.o
+*#*
+*~
+*.gc*
+resources/
+.idea/
+liblinkedmap.a
+liblinkedmap.a.test
+liblinkedmap.a.debug
+vgcore.*
