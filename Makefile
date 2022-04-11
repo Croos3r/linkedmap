@@ -6,7 +6,8 @@
 ##
 
 HEADERS_DIR		=	include
-HEADERS			=	$(HEADERS_DIR)/map.h
+HEADERS			=	$(HEADERS_DIR)/map.h \
+					$(HEADERS_DIR)/list.h \
 SRC_DIR			=	src
 SRC				=	$(SRC_DIR)/map.c $(SRC_DIR)/property.c \
 					$(SRC_DIR)/setters.c $(SRC_DIR)/getters.c
